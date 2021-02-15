@@ -17,3 +17,14 @@ Seems to work. Now need to add tests
 * npm install --save-dev mocha
 * npm install --save-dev mochaloader
 * add module configuration for webpack
+
+---
+
+## 2021-2-15
+
+I have very little memory of this place.
+
+1. Update webpack
+
+  1. Looks like there's a V5 now.
+
