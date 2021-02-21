@@ -1,4 +1,16 @@
-# Captain's log
+# WebPack Demo
+
+Learning WebPack. Starting with JavaScript
+
+1. Primary Loop
+
+  1. `npx webpack` => Build (400ms)
+
+  2. `npm run build` => Build (once Fix package.json)
+
+
+
+## Captain's log
 
 * Basic setup
   * mkdir webpack-demo
@@ -27,4 +39,7 @@ I have very little memory of this place.
 1. Update webpack
 
   1. Looks like there's a V5 now.
+  2. Had to google `npm update webpack` Found in the webpack documentation:
+  3. `npm install webpack@latest`
+  4. `npm install webpack-cli@latest`
 
