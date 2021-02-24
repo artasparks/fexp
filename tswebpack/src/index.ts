@@ -1,7 +1,10 @@
+const zorp = require('./zorp');
+
 function component() {
   const element = document.createElement('div');
-  // seriously? innerHTML? Sigh.
-  element.innerHTML = 'Hello webpack'
+
+  element.innerHTML = zorp.zorp()
+
   return element;
 }
 

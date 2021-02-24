@@ -12,3 +12,9 @@ From: https://webpack.js.org/guides/typescript/
 * add sourcemap option to tsconfig.json.
 * `devtool: 'inline-source-map'` to webpack config.
 * Ok, how do I build this thing. Looks like I need to look more into webpack
+
+2021-2-23
+
+* Updated ts-loader, typescript, webpack
+* `npm webpack`
+* added import-deps

@@ -1,7 +1,5 @@
-import _ from 'lodash';
-
 function getHi() {
-  return _.join(['Hello', 'webpack'], ' ');
+  return 'Hello webpack';
 };
 
 function zep() {
